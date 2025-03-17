@@ -22,4 +22,4 @@ GreenSprouts is an AI-powered plant care assistant that helps users track plant 
 - 📁 **Documentation** – Final report & presentation.  
 
 ## 🚀 How to Access the Prototype
-👉 Click here to view: [https://motiff.com/file/g2o8CkemEoYImgC9SGYDgJn?nodeId=0%3A1&type=design "Untitled"](#)  
+👉 Click here to view: https://motiff.com/file/g2o8CkemEoYImgC9SGYDgJn?nodeId=0%3A1&type=design "Untitled"(#)  
